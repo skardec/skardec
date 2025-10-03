@@ -51,6 +51,7 @@ Sinta-se à vontade para me chamar:
 - 💼 Xtwitter: @skardecsb
 - 🚀 Instagram: @otimizandotudonomundo
 - 📌 Meu Site: **https://skardec.github.io/machine_of_optimization/**
+- 🤖 Parceria: **https://github.com/oziieljuniior/**
 ---
 
 Volte Sempre que precisar!  
