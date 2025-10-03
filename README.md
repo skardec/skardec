@@ -8,13 +8,13 @@ Atuo em projetos que integram **Matemática, Computação e Inteligência Artifi
 - 🤖 **Otimização e pesquisa operacional aplicada à IA**
 - 🔬 **Modelagem matemática e estatística aplicada**
 
-Desde 2016, venho programando um portfólio técnico com pesquisas, projetos científicos e aplicações práticas em **Machine Learning, Data Science e Otimização Matemática**.
+Desde 2016, venho preparando um portfólio técnico com pesquisas, projetos científicos e aplicações práticas em **Machine Learning, Data Science e Otimização Matemática**.
 
 ---
 
 ## 🚀 Tecnologias & Ferramentas
 
-- **Linguagens:** Python, R, Julia, MATLAB, Octave, LaTeX  
+- **Linguagens:** Python, R, R-studio, Julia, MATLAB, Octave, LaTeX, HTML  
 - **Bibliotecas:** TensorFlow/Keras, PyTorch, Scikit-learn, Pandas, NumPy  
 - **Ferramentas:** Jupyter Notebook, VSCode, Git, Excel  
 
@@ -35,8 +35,8 @@ Desde 2016, venho programando um portfólio técnico com pesquisas, projetos cie
 
 | Projeto | Descrição |
 |---------|-----------|
-| 🔮 **Preditor temporal com redes neurais** | Arquitetura customizada para previsão de séries temporais complexas |
-| 🌀 **Classificação fuzzy de séries temporais** | Uso de lógica fuzzy para interpretar padrões em dados reais |
+| 🔮 **Classificador para o CIFAR10** | Arquitetura CNN para classificação de imagens |
+| 🌀 **Otimizador Loss-Function** | Busca por modelos alternativos ao gradiente descendente para encontrar parâmetros de RNN |
 | 📈 **Otimização intervalar aplicada** | Modelos matemáticos para problemas com incerteza e variabilidade |
 | 📊 **Deep Learning para compressibilidade e aleatoriedade** | Aplicações de redes neurais e estatística em dados não convencionais |
 
@@ -50,8 +50,8 @@ Sinta-se à vontade para me chamar:
 - ✉️ Email: **kardec.batista@ufam.edu.br**  
 - 💼 Xtwitter: @skardecsb
 - 🚀 Instagram: @otimizandotudonomundo
-
+- 📌 Meu Site: **https://skardec.github.io/machine_of_optimization/**
 ---
 
-Obrigado pela visita!  
+Volte Sempre que precisar!  
 **– Sérgio Kardec**
